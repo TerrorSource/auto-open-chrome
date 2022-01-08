@@ -1,5 +1,5 @@
 # chromeprofiles
-Use AutoHotKey to open multiple Chrome profiles and arrange them automatically on the screen
+The scripts devides the screen in 4 or 6 spots and automatically opens and places Chrome profiles in the spots accordingly
 
 ## Requirements
 - AutoHotKey ( https://www.autohotkey.com/download/? )
@@ -15,3 +15,6 @@ Use AutoHotKey to open multiple Chrome profiles and arrange them automatically o
 5. Save
 6. Open/run the file.
 Do not use keyboard/mouse while the script is running, which takes only a few seconds.
+
+## To-do
+1. Open each profile with in-script defined websites
