@@ -3,7 +3,7 @@
 ; number of profiles: 4
 
 
-Loadprofiles := ["Profile 1", "Profile 2", "Profile 3", "Profile 5"]
+Loadprofiles := ["Profile 1", "Profile 2", "Profile 3", "Profile 4"]
 
 ; DO NOT EDIT BELOW
 
