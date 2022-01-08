@@ -1,7 +1,6 @@
 ; made by Makooy
-; version 0.1
 ;
-; aantal profiles: 4
+; number of profiles: 4
 
 
 Loadprofiles := ["Profile 1", "Profile 2", "Profile 3", "Profile 5"]
