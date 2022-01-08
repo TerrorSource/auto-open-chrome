@@ -1,8 +1,8 @@
 ; made by Makooy
 ;
-; number of profiles: 4
+; number of profiles: 6
 
-Loadprofiles := ["Profile 1", "Profile 2", "Profile 3", "Profile 5", "Profile 5", "Profile 5"]
+Loadprofiles := ["Profile 1", "Profile 2", "Profile 3", "Profile 4", "Profile 5", "Profile 6"]
 
 ; DO NOT EDIT BELOW
 
